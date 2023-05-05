@@ -1,0 +1,4 @@
+8003 Savings_Account
+Current Balance : 150.0
+DEPOSITED 200.0 ON 12/12/21 AT 12:31:27
+WITHDREW	50.0	 ON	12/12/21	AT	12:38:38

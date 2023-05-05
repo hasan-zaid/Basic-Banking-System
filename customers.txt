@@ -1,0 +1,4 @@
+Savings_Account 8001 HASAN ZAID hasan_zaid hasan 2003
+Current_Account 8002 DHIAA NOUR dhiaa_2000 dhiaa 2000
+Savings_Account 8003 ABDULLAH ALI abdullah_ali ali_1999 1999
+Savings_Account 8004 JOHN SMITH js 588583 1999
